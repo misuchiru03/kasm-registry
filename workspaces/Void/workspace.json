@@ -1,6 +1,6 @@
 {
   "friendly_name": "Void Linux",
-  "image_src": "blob:https://misuchiru03.github.io/5f29b9d6-e077-4b34-8b1b-ea7dd4053267",
+  "image_src": "void-linux.png",
   "description": "Void Linux OS",
   "name": "ghcr.io/void-linux/void-glibc-full:20240526R1",
   "cores": 2,
